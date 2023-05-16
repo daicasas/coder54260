@@ -9,4 +9,4 @@ Es para chequear que todo este bien
 3.git add .
 Esto permite agregar modificaciones hechas 
 
-4.
+4.git commit -m "un mensaje cualquiera"
