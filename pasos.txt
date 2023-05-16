@@ -1,0 +1,12 @@
+Inicializar git:
+
+1.git init
+para Inicializar git solo se hace la primera vez
+
+2.git status
+Es para chequear que todo este bien
+
+3.git add .
+Esto permite agregar modificaciones hechas 
+
+4.
